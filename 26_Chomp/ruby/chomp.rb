@@ -7,4 +7,4 @@
 #
 
 puts("\tCHOMP")
-puts( "Creative Computing Morristown, New Jersey" )
+puts('Creative Computing Morristown, New Jersey')
